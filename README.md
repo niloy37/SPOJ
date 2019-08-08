@@ -9,4 +9,4 @@ Apart from the English language, SPOJ also offers its content in Polish, Portugu
 
 The website is considered both an automated evaluator of user-submitted programs as well as an online learning platform to help people understand and solve computational tasks.[2] It also allows students to compare paradigms and approaches with such a wide variety of languages. 
 # Thanks for visiting SPOJ repository
---last updated - 1/7/19
+--last updated - August 8 , 2019
