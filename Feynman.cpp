@@ -8,3 +8,4 @@ while(cin>> n && n!= 0){
 }
 }
 //spoj soln
+//upt
